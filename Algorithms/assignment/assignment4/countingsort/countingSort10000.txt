@@ -1,0 +1,6 @@
+ArraySize  ExecutionTime
+1000		0
+11000		2
+21000		2
+31000		2
+41000		3
