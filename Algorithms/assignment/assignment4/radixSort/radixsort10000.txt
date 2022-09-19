@@ -1,6 +1,0 @@
-ArraySize  ExecutionTime
-10000		5
-11000		4
-12000		3
-13000		3
-14000		2

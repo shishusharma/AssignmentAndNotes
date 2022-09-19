@@ -1,0 +1,64 @@
+div, span{
+    border: 1px solid black;
+    margin: 0.5%;
+}
+.header{
+    padding: 1% 0;
+}
+.logo{
+    padding: 0.5% 1%;
+    height: 180px;
+    background-color: rgb(200, 101, 246);
+    font-size: 36px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: white;
+}
+.name{
+    font-size: 36px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: blue;
+    margin: 2% 2% 2% 0;
+    padding: 0.5%;
+}
+.nav{
+    padding: 1%;
+    background-color: rgb(13, 13, 54);
+}
+.nav span{
+    padding: 1% 2%;
+    margin: 0.5% 2%;
+    color: white;
+    border: none;
+    font-weight: 700;
+    font-size: large;
+    cursor: pointer;
+}
+.main{
+    display: flex;
+}
+.sidenav{
+    height: 80%;
+    width: 25%;
+    border: none;
+}
+.notice{
+    padding: 3%;
+    background-color: rgb(230, 230, 230);
+    cursor:pointer;
+}
+.about{
+    width: 70%;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    border: None;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    padding: 1%;
+    background-color: rgb(87, 74, 74);
+}
+
